@@ -1,6 +1,6 @@
 import requests
 
-token = "opocF3FfEhpk5LXQSvTb2nmHyj4kvNQpn10GkwbfxpE"
+token = ""
 line_url = "https://notify-api.line.me/api/notify"
 
 
